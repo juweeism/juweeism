@@ -20,3 +20,4 @@ $ whoami
 > juweeism
 
 ```
+I am an NLP Engineer (generalist SWE at heart), with emerging interest in Recommender Systems, ML and DL. I like to build stuff
